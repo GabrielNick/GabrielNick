@@ -39,3 +39,5 @@
 ---
 
 ⭐ *"Busco sempre aprender, construir e compartilhar conhecimento através da tecnologia."*
+
+![Snake animation](https://github.com/GabrielNick/GabrielNick/blob/output/github-contribution-grid-snake.svg)
