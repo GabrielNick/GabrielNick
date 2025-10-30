@@ -33,7 +33,6 @@
 ### 🌐 Onde me encontrar:
 <div>
   <a href="mailto:gabriel_nike02@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/gabriel-nicolas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/GabrielNick" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
