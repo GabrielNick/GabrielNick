@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Gabriel Nícolas!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Presidente Prudente**  
+🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** na **FATEC Presidente Prudente**  
 💻 Apaixonado por **desenvolvimento web**, **infraestrutura de TI** e **novas tecnologias**  
 🚀 Buscando evoluir constantemente em **PHP, React, C# (.NET)** e boas práticas de código  
 
